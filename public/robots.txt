@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://anetai-droid.github.io/online-kenshu-lp/sitemap.xml
